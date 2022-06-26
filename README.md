@@ -10,8 +10,8 @@
 <div>
     <h3 align="center">⚡️ My projects ⚡️</h3>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=RotMac&theme=onedark&hide_border=true">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=Tic-Tac-Toe&theme=onedark&hide_border=true">
+        <img href="https://github.com/DanikKul/RotMac", src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=RotMac&theme=onedark&hide_border=true">
+        <img href="https://github.com/DanikKul/Tic-Tac-Toe", src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=Tic-Tac-Toe&theme=onedark&hide_border=true">
     </p>
 </div>
 
