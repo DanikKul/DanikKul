@@ -13,5 +13,8 @@
         <a href="https://github.com/DanikKul/RotMac"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=RotMac&theme=onedark&hide_border=true"></a>
         <a href="https://github.com/DanikKul/Tic-Tac-Toe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=Tic-Tac-Toe&theme=onedark&hide_border=true"></a>
     </p>
+    <p align="center">
+        <a href="https://github.com/DanikKul/Hanoi-in-Console"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=Hanoi-in-Console&theme=onedark&hide_border=true"></a>
+    </p>
 </div>
 
