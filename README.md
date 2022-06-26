@@ -5,6 +5,11 @@
 <div>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanikKul&layout=compact&theme=onedark&langs_count=6&hide_border=true)">
-        <img src=https://github-readme-stats.vercel.app/api/pin?username=DanikKul&repo=RotMac>
     </p>
 </div>
+<div>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=RotMac&theme=onedark&hide_border=true">
+    </p>
+</div>
+
