@@ -8,7 +8,7 @@
     </p>
 </div>
 <div>
-    <p align="center">⚡️ My projects ⚡️</p>
+    <h3 align="center">⚡️ My projects ⚡️</h3>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=RotMac&theme=onedark&hide_border=true">
     </p>
