@@ -17,4 +17,10 @@
         <a href="https://github.com/DanikKul/Hanoi-in-Console"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=Hanoi-in-Console&theme=onedark&hide_border=true"></a>
     </p>
 </div>
+##Studying
+>> Python
+>> SQL
+>> Java
+>> C
+>> C++
 
