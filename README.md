@@ -20,7 +20,7 @@
 <h3>Studying</h3>
 
 <ol> 
-    <li> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> </li>
+    <li> <img width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> </li>
     <li> SQL </li>
     <li> Java </li>
     <li> C </li>
