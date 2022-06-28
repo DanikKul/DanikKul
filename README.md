@@ -18,11 +18,10 @@
     </p>
 </div>
 <h3>Studying</h3>
-
-<ol> 
-    <li> <img width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> </li>
-    <li> SQL </li>
-    <li> Java </li>
-    <li> C </li>
-    <li> C++ </li>
-</ol>
+<p>
+    <img alt="Python", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img alt="C", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img alt="C++", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+    <img alt="Java", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img alt="Java", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+</p>
