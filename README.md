@@ -20,7 +20,7 @@
 <h3>Studying</h3>
 
 <ol> 
-    <li> <img width="30px" ,src="python_image.png"> </li>
+    <li> <img width="30", height="30" ,src="python_image.png"> </li>
     <li> SQL </li>
     <li> Java </li>
     <li> C </li>
