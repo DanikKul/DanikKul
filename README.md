@@ -20,9 +20,9 @@
 </div>
 <h3>Studying</h3>
 <p>
-    <img alt="Python", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img alt="C", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-    <img alt="C++", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-    <img alt="Java", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img alt="Java", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <a href=""https://www.python.org/><img alt="Python", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></a>
+    <a href="https://www.oracle.com/java/"><img alt="Java", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
+    <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript"><img alt="JavaScript", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
 </p>
