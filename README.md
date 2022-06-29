@@ -15,6 +15,7 @@
     </p>
     <p align="center">
         <a href="https://github.com/DanikKul/Hanoi-in-Console"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=Hanoi-in-Console&theme=onedark&hide_border=true"></a>
+        <a href="https://github.com/DanikKul/Sorts-Visualisation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanikKul&repo=Sorts-Visualisation&theme=onedark&hide_border=true"></a>
     </p>
 </div>
 <h3>Studying</h3>
