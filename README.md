@@ -26,3 +26,8 @@
     <a href="https://www.oracle.com/java/"><img alt="Java", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
     <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript"><img alt="JavaScript", width=50, height=50, src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
 </p>
+<h3>Contacts</h3>
+<ul>
+    <li>E-mail: kulakovich2@gmail.com<li>
+    <li><a href="https://www.instagram.com/danikkul24/">Instagram</a></li>
+    <li><a href="https://vk.com/atlantjc">VK</a></li>
