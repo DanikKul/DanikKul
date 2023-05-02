@@ -5,6 +5,6 @@
 
 <h3>Contacts</h3>
 <ul>
-    <li>E-mail: <a href="mailto:kulakovich2@gmail.com">kulakovich2@gmail.com</a></li>
+    <li><a href="mailto:kulakovich2@gmail.com">kulakovich2@gmail.com</a></li>
     <li><a href="https://www.instagram.com/danikkul24/">Instagram</a></li>
     <li><a href="https://vk.com/atlantjc">VK</a></li>
