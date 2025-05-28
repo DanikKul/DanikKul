@@ -1,6 +1,6 @@
 <div align="center">
     <h2> ⚡️ Hello, I'm Daniil Kulakovich ⚡️ </h2>
-    <h3> I'm study at <a href="https://www.bsuir.by">BSUIR</a>, <a href="https://www.bsuir.by/ru/fksis">FCSaN</a>, <a href="https://www.bsuir.by/ru/kaf-evm">specialty of computing machines, systems and networks</a> (2021 - 2025) </h3>
+    <h3> I study at <a href="https://www.bsuir.by">BSUIR</a>, <a href="https://www.bsuir.by/ru/fksis">FCSaN</a>, <a href="https://www.bsuir.by/ru/kaf-evm">speciality of computing machines, systems and networks</a> (2021 - 2025) </h3>
 </div>
 
 <h3>Contacts</h3>
